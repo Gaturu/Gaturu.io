@@ -13,7 +13,7 @@ order: 4
 
 I’m **Gaturu**, an IT Solutions Architect, cloud enthusiast, and lifelong learner on a mission to simplify tech for everyone — one line of code, one concept, one story at a time.
 
-With over **7 years of hands-on experience** in IT service delivery, infrastructure support, and systems administration, I’ve worked across various enterprise environments to build secure, scalable, and customer-focused solutions.
+With over **7+ years of hands-on experience** in IT service delivery, infrastructure support, and systems administration, I’ve worked across various enterprise environments to build secure, scalable, and customer-focused solutions.
 
 Today, I’m deeply passionate about the cloud — exploring **AWS**, **Azure**, and **Google Cloud** — while sharpening my skills in **DevSecOps**, **Cloud Security**, and **Infrastructure as Code**. I'm currently working on exciting AWS projects and documenting my 30-day learning journey to help others rise with me.
 
