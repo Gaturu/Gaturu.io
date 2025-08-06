@@ -1,9 +1,14 @@
 ---
+layout: post
 title: AWS Free Account + 200 USD.
 date: 2025-08-06 10:30
 categories: [cloud,aws,]
 tags: [aws]   # TAG name should always be lowercase
 ---
+
+
+![img-description](https://cdn-images-1.medium.com/max/1000/1*KR1QBAwP7OGF7VKM4bJD_Q.png)
+
 
 # 🚀 AWS Free Tier Just Got Smarter: New 6-Month Plan with $200 in Credits (2025 Update)
 
