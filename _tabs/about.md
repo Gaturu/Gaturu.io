@@ -9,9 +9,9 @@ order: 4
 
 
 
-# 👋 About Me
+# 👋 Hi!
 
-Hey there! I’m **Gaturu**, an IT Solutions Architect, cloud enthusiast, and lifelong learner on a mission to simplify tech for everyone — one line of code, one concept, one story at a time.
+I’m **Gaturu**, an IT Solutions Architect, cloud enthusiast, and lifelong learner on a mission to simplify tech for everyone — one line of code, one concept, one story at a time.
 
 With over **7 years of hands-on experience** in IT service delivery, infrastructure support, and systems administration, I’ve worked across various enterprise environments to build secure, scalable, and customer-focused solutions.
 
