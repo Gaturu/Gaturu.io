@@ -1,12 +1,12 @@
 ---
 title: AWS Free Account + 200 USD.
 date: 2025-08-06 10:30
-categories: [cloud,aws]
+categories: [cloud,aws,]
 tags: [aws]   # TAG name should always be lowercase
 ---
 
 
-# AWS Free Tier 2025: How it Works (and Step By Step On How to Sign Up!)
+# AWS Free Tier 2025: How it Works (Step By Step On How to Sign Up!)
 
 **Major AWS Free Tier overhaul (July 15, 2025): What’s new, why it matters, and how to create your Free Tier account.**
 
