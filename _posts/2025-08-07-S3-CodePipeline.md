@@ -1,9 +1,8 @@
 ---
-layout: post
-title: AWS Codepipeline to S3 bucket.
-date: 2025-08-07 1009:3017
-categories: [cloud,aws,]
-tags: [aws]   # TAG name should always be lowercase
+title: "S3 and CodePipeline Integration"
+date: 2025-08-07 10:09:30
+categories: [aws, devops]
+tags: [s3, codepipeline, ci/cd]
 ---
 
 
