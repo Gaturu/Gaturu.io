@@ -1,9 +1,9 @@
 ---
-title: "S3 and CodePipeline Integration"
+title: "S3 CodePipeline Integration"
 date: 2025-08-07 10:09:30
-categories: [aws, devops]
-tags: [s3, codepipeline, ci/cd]
+tags: [aws, s3, codepipeline]
 ---
+
 
 
 
